@@ -176,6 +176,3 @@ The sentiment analysis model files are not included in the repository due to siz
 1. Download the fine-tuned model files from Hugging Face.
 2. Place the model files in the `fineTunedSentimentModel` directory (or whatever you want to call it).
 3. Ensure the `MODEL_PATH` in your `.env` points to this directory
-
-
-```
