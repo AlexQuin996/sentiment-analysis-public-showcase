@@ -2,8 +2,6 @@
 
 A full-stack web application that performs real-time sentiment analysis on text using a fine-tuned DistilBERT model. The application provides instant feedback on whether input text has a positive, negative, or neutral sentiment.
 
-FOR NOW USE VIEWING IN RAW TO SEE DIAGRAM MEANINGFULLY
-
 ## Technical Stack & Skills Demonstrated
 
 ### Frontend
