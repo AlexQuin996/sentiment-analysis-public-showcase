@@ -1,6 +1,6 @@
 # Sentiment Analysis Web Application
 
-A full-stack web application that performs real-time sentiment analysis on text using a fine-tuned DistilBERT model. The application provides instant feedback on whether input text has a positive, negative, or neutral sentiment.
+A full-stack web application that performs real-time sentiment analysis on text using a fine-tuned DistilBERT model. The application provides instant feedback on whether input text has a positive, negative, or neutral sentiment. Link to private repo available upon request.
 
 ## Technical Stack & Skills Demonstrated
 
