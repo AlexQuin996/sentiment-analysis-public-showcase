@@ -61,7 +61,7 @@ A full-stack web application that performs real-time sentiment analysis on text 
     │    │ Frontend Container │                   │ Backend Container  │       │
     │    │    (frontend)      │                   │    (backend)       │       │
     │    │ ┌──────────────┐   │                   │ ┌──────────────┐   │       │
-    │    │ │   React App  │   │◀─── app_network ─▶│ │  Flask API   │   │       │
+    │    │ │   React App  │   │◀── app_network ─▶│ │  Flask API   │   │       │
     │    │ │  Port 5173   │   │                   │ │  Port 5000   │   │       │
     │    │ └──────────────┘   │                   │ └──────────────┘   │       │
     │    │                    │                   │     (.env)         │       │
