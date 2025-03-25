@@ -1,5 +1,7 @@
 # Sentiment Analysis Web Application
 
+This code is proprietary and confidential. It is shared solely for evaluation by potential employers and is not licensed for use, redistribution, or commercial exploitation.
+
 A full-stack web application that performs real-time sentiment analysis on text using a fine-tuned DistilBERT model. The application provides instant feedback on whether input text has a positive, negative, or neutral sentiment. Link to private repo available upon request.
 
 ## Technical Stack & Skills Demonstrated
