@@ -1,4 +1,8 @@
 # Sentiment Analysis Web Application
+<h3>Demo Video Link</h3>
+<p align="center">
+  <iframe src="https://www.loom.com/share/5b385316680a4e8c98a73ae045c05473?sid=4724d554-e51c-462c-ad09-036f0c80f34d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="100%" height="400"></iframe>
+</p>
 
 **This is a public showcase only. No code or implementation details are included.** 
 
