@@ -1,4 +1,10 @@
 # Sentiment Analysis Web Application
+<h3>🚀 Demo Video</h3>
+
+<video width="100%" controls>
+  <source src="https://github.com/AlexQuin996/sentiment-analysis-public-showcase/blob/main/Sentiment%20Analysis%20Demo%20Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **This is a public showcase only. No code or implementation details are included.** 
 
