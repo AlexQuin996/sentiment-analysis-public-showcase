@@ -1,7 +1,6 @@
+[CLICK HERE TO WATCH THE DEMO VIDEO!]](https://www.loom.com/share/5b385316680a4e8c98a73ae045c05473?sid=4724d554-e51c-462c-ad09-036f0c80f34d)
+
 # Sentiment Analysis Web Application
-
-[![Click HERE TO WATCH THE DEMO VIDEO!]](https://www.loom.com/share/5b385316680a4e8c98a73ae045c05473?sid=4724d554-e51c-462c-ad09-036f0c80f34d)
-
 **This is a public showcase only. No code or implementation details are included.** 
 
 A full-stack web application that performs real-time sentiment analysis on text using a fine-tuned DistilBERT model. The application provides instant feedback on whether input text has a positive, negative, or neutral sentiment. Link to private repo available upon request.
