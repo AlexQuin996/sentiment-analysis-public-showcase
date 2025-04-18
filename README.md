@@ -1,4 +1,4 @@
-[[CLICK HERE TO WATCH THE DEMO VIDEO!]](https://www.loom.com/share/5b385316680a4e8c98a73ae045c05473?sid=4724d554-e51c-462c-ad09-036f0c80f34d)
+[[**CLICK HERE TO WATCH THE DEMO VIDEO!**]](https://www.loom.com/share/5b385316680a4e8c98a73ae045c05473?sid=4724d554-e51c-462c-ad09-036f0c80f34d)
 
 # Sentiment Analysis Web Application
 **This is a public showcase only. No code or implementation details are included.** 
